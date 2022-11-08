@@ -1,0 +1,11 @@
+# linting:
+black
+flake8
+isort
+pip-tools
+pre-commit
+
+# testing:
+hypothesis
+pytest
+pytest-xdist
