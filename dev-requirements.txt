@@ -9,3 +9,4 @@ pre-commit
 hypothesis
 pytest
 pytest-xdist
+git+https://github.com/vyperlang/titanoboa.git@81ae1c7335441fc6d0680e840cf6eadea84dd348
